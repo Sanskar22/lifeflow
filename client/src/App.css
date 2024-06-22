@@ -1,0 +1,9 @@
+.good{
+    list-style-type: disc;
+    padding-left: 16px;
+    margin-bottom: 24px;
+}
+
+li{
+    color:  #525f7f;
+}
